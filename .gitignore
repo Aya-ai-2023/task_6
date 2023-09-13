@@ -1,0 +1,5 @@
+# Project exclude paths
+/my_awesome_namer/.dart_tool/
+/my_awesome_namer/build/
+/Task_6_4_series/.dart_tool/
+/Task_6_4_series/build/
